@@ -1,0 +1,24 @@
+{
+  "name": "collegeterracecenter",
+  "version": "1.0.0",
+  "description": "collegeterracecenter information page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TannedAlbino/collegeterracecenter.git"
+  },
+  "keywords": [
+    "college",
+    "terrace",
+    "center"
+  ],
+  "author": "JS&UC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TannedAlbino/collegeterracecenter/issues"
+  },
+  "homepage": "https://github.com/TannedAlbino/collegeterracecenter#readme"
+}
