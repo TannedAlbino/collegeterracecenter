@@ -2,7 +2,7 @@
   "name": "collegeterracecenter",
   "version": "1.0.0",
   "description": "college terrace",
-  "main": "server.js",
+  "main": "index.html",
   "dependencies" : {
     "mime" : "~1.2.7"
   },
