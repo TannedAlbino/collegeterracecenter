@@ -2,7 +2,7 @@
   "name": "collegeterracecenter",
   "version": "1.0.0",
   "description": "collegeterracecenter information page",
-  "main": "fadeslideshow.js",
+  "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
