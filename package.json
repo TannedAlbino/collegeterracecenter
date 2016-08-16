@@ -1,8 +1,11 @@
 {
   "name": "collegeterracecenter",
   "version": "1.0.0",
-  "description": "collegeterracecenter information page",
-  "main": "index.php",
+  "description": "college terrace",
+  "main": "index.js",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,9 +16,11 @@
   "keywords": [
     "college",
     "terrace",
-    "center"
+    "centre",
+    "palo",
+    "alto"
   ],
-  "author": "JS&UC",
+  "author": "JSUS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TannedAlbino/collegeterracecenter/issues"
