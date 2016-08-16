@@ -14,4 +14,6 @@ function sendPage(response, filePath, fileContents) {
   response.end(fileContents);
 }
 
-var port_number = server.listen(process.env.PORT || 3000);
+var port_number = app.listen(process.env.PORT || 3000, function(){
+  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+});
