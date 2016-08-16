@@ -2,13 +2,13 @@
   "name": "collegeterracecenter",
   "version": "1.0.0",
   "description": "college terrace",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies" : {
     "mime" : "~1.2.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
